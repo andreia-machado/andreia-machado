@@ -1,4 +1,4 @@
-## Oi, meu nome é Andréia!
+## Olá, meu nome é Andréia!
 
 - 👩🏼‍🏫 **Professora** de Matemática
 - 👩🏼‍💻 **Mestranda** em Ciência da Computação
